@@ -161,19 +161,21 @@ make
 ## License
 All programs and copyrights belonges to Nordic Semiconductors. THIS IS ONLY AN INSTRUCTION and I have no rights to any of these  programms that are in this instruction. That is only for educational purpose.
 
-MIT License
+Copyright (c) 2020, Nordic Semiconductor ASA
 
-Copyright (c) [2020] [Mateusz Broncel]
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form, except as embedded into a Nordic Semiconductor ASA integrated circuit in a product or a software update for such product, must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Nordic Semiconductor ASA nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+This software, with or without modification, must only be used with a Nordic Semiconductor ASA integrated circuit.
+
+Any software provided in binary form under this license must not be reverse engineered, decompiled, modified and/or disassembled.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
